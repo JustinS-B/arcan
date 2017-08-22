@@ -1,0 +1,8 @@
+1. Header - split into a libabc that looks sane
+   This affects configuration load/store API in particular
+2. Rework video_platform_init to not be crazy
+3. Build - add option to build multiple platform versions
+4. Build - have a libabc-client version
+5. some chrpath based version of switching?
+6. Software- based backend build?
+
